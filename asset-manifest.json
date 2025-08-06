@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shopverse/static/css/main.963b7404.css",
+    "main.js": "/shopverse/static/js/main.8245ded5.js",
+    "index.html": "/shopverse/index.html",
+    "main.963b7404.css.map": "/shopverse/static/css/main.963b7404.css.map",
+    "main.8245ded5.js.map": "/shopverse/static/js/main.8245ded5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.963b7404.css",
+    "static/js/main.8245ded5.js"
+  ]
+}
