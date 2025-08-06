@@ -55,7 +55,7 @@ import AdminUpdateUserPage from './Pages/Admin/User/AdminUpdateUserPage'
 
 export default function App() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/shopverse">
             <Navbar />
             <Routes>
                 <Route path='' element={<HomePage />} />
